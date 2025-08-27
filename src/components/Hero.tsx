@@ -58,7 +58,7 @@ const Hero: React.FC = () => {
         </div>
       
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6 mb-12">
-             <a href='/resume.pdf' download>
+             <a href='/resumee.pdf' download>
           <button className="bg-gradient-to-r from-blue-500 to-purple-500 text-white px-8 py-3 rounded-lg font-semibold hover:from-blue-600 hover:to-purple-600 transition-all duration-300 flex items-center gap-2 shadow-lg">
             <Download size={20} />
             Download Resume
